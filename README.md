@@ -25,7 +25,6 @@ public class Parampreet {
 
     String[] currentFocus  = {"DSA grind 💪", "Internship hunt 🎯", "Cloud & DevOps 🌩️"};
     String   university    = "Chitkara University, Punjab";
-    double   cgpa          = 9.38;
     String   degree        = "B.Tech Computer Science (Expected 2027)";
     String   location      = "Doraha, Punjab, India 🇮🇳";
     String   lookingFor    = "Software Engineering Internship (2025)";
